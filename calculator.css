@@ -1,0 +1,73 @@
+.body{
+  background-color: black;
+
+}
+.button1{
+  background-color: rgb(51, 51, 51);;
+  color: white;
+  border-radius: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  font-size: 23px;
+  margin: 2px;
+
+}
+.button2{
+  background-color: orange;
+  color: white;
+  border-radius: 50px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  font-size: 20px;
+  margin: 2px;
+}
+.button3{
+  background-color: orange;
+  color: white;
+  border-radius: 50px;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  font-size: 20px;
+  margin: 2px;
+}
+.button4{
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 50px;
+  padding-left: 28px;
+  padding-right: 28px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  font-size: 20px;
+  margin: 2px;
+}
+.clear{
+
+  background-color: rgb(51, 51, 51);
+  color: white;
+  border-radius: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border: none;
+  font-size: 15px;
+  margin: 2px;
+
+}
+.js-calculation{
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  padding: 15px 10px;
+}
